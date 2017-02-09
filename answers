@@ -1,0 +1,10 @@
+1. There are two in total, one with yarn logs and the second one with a yarn
+    file and a lock file that we do not know what it does.
+
+2. There are three in total, one for the server, client, and the third one for
+    both client and server.
+
+3.
+
+4. The navbar has routerlinks that help link to specific parts of the app.
+    Helps with navigation.
