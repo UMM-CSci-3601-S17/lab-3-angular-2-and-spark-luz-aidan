@@ -4,7 +4,9 @@
 2. There are three in total, one for the server, client, and the third one for
     both client and server.
 
-3.
+3. We have Node, which is a Javascript Runtime built on Chrome's V8 Engine. This allows our server to
+    "react" when an event occurs.
+    We also have Yarn, which is Yet Another Resource Negotiator. This tool manages our resources,
 
 4. The navbar has routerlinks that help link to specific parts of the app.
     Helps with navigation.
